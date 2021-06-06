@@ -63,7 +63,6 @@ function getInputToNumber(bookingClass){
     const bookingInput = document.getElementById(bookingClass);
     const bookingInputNumber = parseInt(bookingInput.value);
     return bookingInputNumber;
-
 }
 
 
